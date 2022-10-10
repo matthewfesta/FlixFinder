@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FlixFinder/static/css/main.334bdeb1.css",
+    "main.js": "/FlixFinder/static/js/main.906f5691.js",
+    "index.html": "/FlixFinder/index.html",
+    "static/media/search.svg": "/FlixFinder/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.334bdeb1.css.map": "/FlixFinder/static/css/main.334bdeb1.css.map",
+    "main.906f5691.js.map": "/FlixFinder/static/js/main.906f5691.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.906f5691.js"
+  ]
+}
